@@ -1,5 +1,4 @@
 
-
 #
 # Complete the 'reversePrint' function below.
 #
